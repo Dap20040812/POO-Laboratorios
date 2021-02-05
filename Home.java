@@ -1,10 +1,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Home here.
+ * Esta clase define el objeto de la casa.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Diego Prado
+ * @version 0.1
  */
 public class Home extends Actor
 {

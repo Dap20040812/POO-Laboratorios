@@ -1,16 +1,16 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class RobotWorld here.
+ * Esta clase se encarga de definir el escenario del juego.
  * 
  * @author Diego Prado
- * @version (a version number or a date)
+ * @version 0.1
  */
 public class RobotWorld extends World
 {
 
     /**
-     * Constructor for objects of class RobotWorld.
+     * En este constructor van todo los atributos de la clase RobotWorld.
      * 
      */
     public RobotWorld()
@@ -20,6 +20,13 @@ public class RobotWorld extends World
         prepareScenario();
 
     }
+    
+    
+    /**
+     * 
+     * Esta subclase tiene como función de añadir los objetos al esenario y organizarlos dentro de el.
+     * 
+     */
     public void prepareScenario()
     {
         int[][] array={{52, 147}, {159, 147}, {266, 147}, {587, 147}, {692, 147}, {791, 147}};

@@ -1,21 +1,25 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Robot here.
+ * Esta clase define el objeto del Robot.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Diego Prado
+ * @version 0.1
  */
 public class Robot extends Actor
 {
     /**
-     * Act - do whatever the Robot wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
+     * Esta subclase permite difinir todos las acciones del bloque.
+     * 
      */
     public void act() 
     {
         robotMovement();   
     }   
+    /**
+     * Esta subclase se encarga de generar el movimiento del robot.
+     * 
+     */
     public void robotMovement()
     {
         if(Greenfoot.isKeyDown("Right"))

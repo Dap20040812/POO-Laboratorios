@@ -1,16 +1,16 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * Write a description of class Block here.
+ * Esta clase define el objeto del bloque.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Diego Prado
+ * @version 0.1
  */
 public class Block extends Actor
 {
     /**
-     * Act - do whatever the Block wants to do. This method is called whenever
-     * the 'Act' or 'Run' button gets pressed in the environment.
+     * Esta subclase permite difinir todos las acciones del bloque.
+     * 
      */
     public void act() 
     {
