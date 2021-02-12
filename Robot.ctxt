@@ -1,10 +1,22 @@
 #BlueJ class context
 comment0.target=Robot
-comment0.text=\r\n\ Esta\ clase\ define\ el\ objeto\ del\ Robot.\r\n\ \r\n\ @author\ Diego\ Prado\r\n\ @version\ 0.1\r\n
+comment0.text=\r\n\ Esta\ clase\ define\ el\ objeto\ del\ Robot.\r\n\ \r\n\ @author\ Diego\ Prado-\ Daniel\ Barco-\ Jose\ Luis\ Tovar\r\n\ @version\ 0.2\r\n
 comment1.params=
 comment1.target=void\ act()
 comment1.text=\r\n\ Esta\ subclase\ permite\ difinir\ todos\ las\ acciones\ del\ bloque.\r\n\ \r\n
 comment2.params=
 comment2.target=void\ robotMovement()
 comment2.text=\r\n\ Esta\ subclase\ se\ encarga\ de\ generar\ el\ movimiento\ del\ robot.\r\n\ \r\n
-numComments=3
+comment3.params=
+comment3.target=void\ detectWallCollision()
+comment3.text=\r\n\ Esta\ subclase\ permite\ detectar\ la\ colisi\u00F3n\ del\ robot\ con\ el\ muro\ y\ realizar\ las\ acciones\ correspodientes\ al\ acto..\r\n\ \r\n
+comment4.params=
+comment4.target=void\ detectBlockCollision()
+comment4.text=\r\n\ Esta\ subclase\ permite\ detectar\ la\ colisi\u00F3n\ del\ robot\ con\ el\ bloque\ y\ realizar\ las\ acciones\ correspodientes\ al\ acto..\r\n\ \r\n
+comment5.params=
+comment5.target=void\ detectHome()
+comment5.text=\r\n\ Esta\ subclase\ permite\ detectar\ la\ colisi\u00F3n\ del\ robot\ con\ la\ casa\ y\ realizar\ las\ acciones\ correspodientes\ al\ acto..\r\n\ \r\n
+comment6.params=
+comment6.target=void\ eatPizza()
+comment6.text=\r\n\ Esta\ subclase\ permite\ detectar\ la\ colisi\u00F3n\ del\ robot\ con\ las\ pizzas\ y\ realizar\ las\ acciones\ correspodientes\ al\ acto..\r\n\ \r\n
+numComments=7

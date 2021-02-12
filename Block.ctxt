@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=Block
-comment0.text=\r\n\ Esta\ clase\ define\ el\ objeto\ del\ bloque.\r\n\ \r\n\ @author\ Diego\ Prado\r\n\ @version\ 0.1\r\n
+comment0.text=\r\n\ Esta\ clase\ define\ el\ objeto\ del\ bloque.\r\n\ \r\n\ @author\ Diego\ Prado-\ Daniel\ Barco-\ Jose\ Luis\ Tovar\r\n\ @version\ 0.2\r\n
 comment1.params=
 comment1.target=void\ act()
 comment1.text=\r\n\ Esta\ subclase\ permite\ difinir\ todos\ las\ acciones\ del\ bloque.\r\n\ \r\n

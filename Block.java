@@ -3,8 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Esta clase define el objeto del bloque.
  * 
- * @author Diego Prado
- * @version 0.1
+ * @author Diego Prado- Daniel Barco- Jose Luis Tovar
+ * @version 0.2
  */
 public class Block extends Actor
 {

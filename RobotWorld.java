@@ -3,8 +3,8 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 /**
  * Esta clase se encarga de definir el escenario del juego.
  * 
- * @author Diego Prado
- * @version 0.1
+ * @author Diego Prado- Daniel Barco- Jose Luis Tovar
+ * @version 0.2
  */
 public class RobotWorld extends World
 {

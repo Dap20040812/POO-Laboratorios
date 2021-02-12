@@ -1,6 +1,6 @@
 #BlueJ class context
 comment0.target=RobotWorld
-comment0.text=\r\n\ Esta\ clase\ se\ encarga\ de\ definir\ el\ escenario\ del\ juego.\r\n\ \r\n\ @author\ Diego\ Prado\r\n\ @version\ 0.1\r\n
+comment0.text=\r\n\ Esta\ clase\ se\ encarga\ de\ definir\ el\ escenario\ del\ juego.\r\n\ \r\n\ @author\ Diego\ Prado-\ Daniel\ Barco-\ Jose\ Luis\ Tovar\r\n\ @version\ 0.2\r\n
 comment1.params=
 comment1.target=RobotWorld()
 comment1.text=\r\n\ En\ este\ constructor\ van\ todo\ los\ atributos\ de\ la\ clase\ RobotWorld.\r\n\ \r\n
