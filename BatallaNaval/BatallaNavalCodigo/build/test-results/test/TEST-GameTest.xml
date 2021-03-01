@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="GameTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-22T02:28:15" hostname="LAPTOP-UU1M9U8A" time="0.045">
-  <properties/>
-  <testcase name="shouldReturnPlacaEnemigas()" classname="GameTest" time="0.045"/>
-  <system-out><![CDATA[[]
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
